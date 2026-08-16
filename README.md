@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/iamaaron07/LeetCode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/iamaaron07/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/iamaaron07/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/iamaaron07/LeetCode/tree/master/0162-find-peak-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -17,4 +18,5 @@
 | [0035-search-insert-position](https://github.com/iamaaron07/LeetCode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/iamaaron07/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/iamaaron07/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/iamaaron07/LeetCode/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
