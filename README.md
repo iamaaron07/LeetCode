@@ -10,6 +10,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/iamaaron07/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/iamaaron07/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/iamaaron07/LeetCode/tree/master/0162-find-peak-element) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/iamaaron07/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Binary Search
 |  |
 | ------- |
@@ -19,4 +20,5 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/iamaaron07/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/iamaaron07/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/iamaaron07/LeetCode/tree/master/0162-find-peak-element) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/iamaaron07/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 <!---LeetCode Topics End-->
