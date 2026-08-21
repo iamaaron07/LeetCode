@@ -38,15 +38,22 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/iamaaron07/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/iamaaron07/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/iamaaron07/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/iamaaron07/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/iamaaron07/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/iamaaron07/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/iamaaron07/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/iamaaron07/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/iamaaron07/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0143-reorder-list](https://github.com/iamaaron07/LeetCode/tree/master/0143-reorder-list) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/iamaaron07/LeetCode/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
