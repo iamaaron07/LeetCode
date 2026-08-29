@@ -55,10 +55,12 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/iamaaron07/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0143-reorder-list](https://github.com/iamaaron07/LeetCode/tree/master/0143-reorder-list) |
 | [0344-reverse-string](https://github.com/iamaaron07/LeetCode/tree/master/0344-reverse-string) |
+| [0844-backspace-string-compare](https://github.com/iamaaron07/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Stack
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/iamaaron07/LeetCode/tree/master/0143-reorder-list) |
+| [0844-backspace-string-compare](https://github.com/iamaaron07/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/iamaaron07/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Math
 |  |
@@ -68,6 +70,7 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/iamaaron07/LeetCode/tree/master/0344-reverse-string) |
+| [0844-backspace-string-compare](https://github.com/iamaaron07/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/iamaaron07/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Greedy
 |  |
@@ -77,4 +80,8 @@
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/iamaaron07/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/iamaaron07/LeetCode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
