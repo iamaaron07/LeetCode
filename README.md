@@ -12,6 +12,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/iamaaron07/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/iamaaron07/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/iamaaron07/LeetCode/tree/master/0162-find-peak-element) |
+| [0496-next-greater-element-i](https://github.com/iamaaron07/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/iamaaron07/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Binary Search
 |  |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/iamaaron07/LeetCode/tree/master/0143-reorder-list) |
+| [0496-next-greater-element-i](https://github.com/iamaaron07/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/iamaaron07/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/iamaaron07/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Math
@@ -84,4 +86,12 @@
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/iamaaron07/LeetCode/tree/master/0844-backspace-string-compare) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/iamaaron07/LeetCode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/iamaaron07/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
