@@ -11,6 +11,7 @@
 | [0042-trapping-rain-water](https://github.com/iamaaron07/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/iamaaron07/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/iamaaron07/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/iamaaron07/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/iamaaron07/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/iamaaron07/LeetCode/tree/master/0162-find-peak-element) |
 | [0496-next-greater-element-i](https://github.com/iamaaron07/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/iamaaron07/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/iamaaron07/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/iamaaron07/LeetCode/tree/master/0143-reorder-list) |
 | [0496-next-greater-element-i](https://github.com/iamaaron07/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/iamaaron07/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -102,10 +104,15 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/iamaaron07/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/iamaaron07/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/iamaaron07/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/iamaaron07/LeetCode/tree/master/0503-next-greater-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/iamaaron07/LeetCode/tree/master/0042-trapping-rain-water) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/iamaaron07/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
