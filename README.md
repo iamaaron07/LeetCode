@@ -68,6 +68,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/iamaaron07/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/iamaaron07/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/iamaaron07/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/iamaaron07/LeetCode/tree/master/0085-maximal-rectangle) |
@@ -87,6 +88,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/iamaaron07/LeetCode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/iamaaron07/LeetCode/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/iamaaron07/LeetCode/tree/master/0402-remove-k-digits) |
 | [0844-backspace-string-compare](https://github.com/iamaaron07/LeetCode/tree/master/0844-backspace-string-compare) |
@@ -99,6 +101,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/iamaaron07/LeetCode/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/iamaaron07/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Simulation
 |  |
